@@ -1,0 +1,107 @@
+---
+object: card
+id: 0b78f185-2c9a-4d6e-8f31-ee87f5254075
+oracle_id: 96cf3c10-733d-4110-9dab-43d0cd4e6629
+multiverse_ids: []
+tcgplayer_id: 174379
+cardmarket_id: 249162
+name: Condescend
+lang: en
+released_at: '2004-09-01'
+uri: https://api.scryfall.com/cards/0b78f185-2c9a-4d6e-8f31-ee87f5254075
+scryfall_uri: https://scryfall.com/card/wc04/mb27/condescend?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/b/0b78f185-2c9a-4d6e-8f31-ee87f5254075.jpg?1562897580
+  normal: https://cards.scryfall.io/normal/front/0/b/0b78f185-2c9a-4d6e-8f31-ee87f5254075.jpg?1562897580
+  large: https://cards.scryfall.io/large/front/0/b/0b78f185-2c9a-4d6e-8f31-ee87f5254075.jpg?1562897580
+  png: https://cards.scryfall.io/png/front/0/b/0b78f185-2c9a-4d6e-8f31-ee87f5254075.png?1562897580
+  art_crop: https://cards.scryfall.io/art_crop/front/0/b/0b78f185-2c9a-4d6e-8f31-ee87f5254075.jpg?1562897580
+  border_crop: https://cards.scryfall.io/border_crop/front/0/b/0b78f185-2c9a-4d6e-8f31-ee87f5254075.jpg?1562897580
+mana_cost: "{X}{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Counter target spell unless its controller pays {X}. Scry 2. (Look at
+  the top two cards of your library, then put any number of them on the bottom of
+  your library and the rest on top in any order.)
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Scry
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d3ff356b-bb3d-4405-a452-34c5cef27329
+set: wc04
+set_name: World Championship Decks 2004
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d3ff356b-bb3d-4405-a452-34c5cef27329
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc04&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc04?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0b78f185-2c9a-4d6e-8f31-ee87f5254075/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96cf3c10-733d-4110-9dab-43d0cd4e6629&unique=prints
+collector_number: mb27
+digital: false
+rarity: common
+card_back_id: 896307e5-1c5d-49c0-8fb5-8d1059bc1115
+artist: Ron Spears
+artist_ids:
+- fce9030b-86bd-4439-b06a-920a1eeb184c
+illustration_id: 56a18f9e-b07c-4cf4-bda0-488e61ef64a0
+border_color: gold
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4497
+penny_rank: 834
+prices:
+  usd: '0.20'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Condescend&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Condescend&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Condescend
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/174379?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Condescend&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Condescend&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

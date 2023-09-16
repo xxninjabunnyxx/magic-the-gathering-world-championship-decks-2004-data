@@ -1,0 +1,127 @@
+---
+object: card
+id: 67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b
+oracle_id: 67a98359-6f02-4556-ad47-c01b643686d6
+multiverse_ids: []
+tcgplayer_id: 174352
+cardmarket_id: 249115
+name: Decree of Justice
+lang: en
+released_at: '2004-09-01'
+uri: https://api.scryfall.com/cards/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b
+scryfall_uri: https://scryfall.com/card/wc04/jn8/decree-of-justice?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/7/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b.jpg?1562919489
+  normal: https://cards.scryfall.io/normal/front/6/7/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b.jpg?1562919489
+  large: https://cards.scryfall.io/large/front/6/7/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b.jpg?1562919489
+  png: https://cards.scryfall.io/png/front/6/7/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b.png?1562919489
+  art_crop: https://cards.scryfall.io/art_crop/front/6/7/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b.jpg?1562919489
+  border_crop: https://cards.scryfall.io/border_crop/front/6/7/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b.jpg?1562919489
+mana_cost: "{X}{X}{2}{W}{W}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: |-
+  Create X 4/4 white Angel creature tokens with flying.
+  Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+  When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Cycling
+all_parts:
+- object: related_card
+  id: '089874c5-4f1e-4d03-a4c5-50f6ac0814dd'
+  component: token
+  name: Angel
+  type_line: Token Creature — Angel
+  uri: https://api.scryfall.com/cards/089874c5-4f1e-4d03-a4c5-50f6ac0814dd
+- object: related_card
+  id: 67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b
+  component: combo_piece
+  name: Decree of Justice
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b
+- object: related_card
+  id: 10322962-5b45-438f-9d28-225414721c34
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/10322962-5b45-438f-9d28-225414721c34
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d3ff356b-bb3d-4405-a452-34c5cef27329
+set: wc04
+set_name: World Championship Decks 2004
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d3ff356b-bb3d-4405-a452-34c5cef27329
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc04&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc04?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/67fd68fe-1cf2-4bd9-a6d3-75b78ef53c1b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67a98359-6f02-4556-ad47-c01b643686d6&unique=prints
+collector_number: jn8
+digital: false
+rarity: rare
+card_back_id: 896307e5-1c5d-49c0-8fb5-8d1059bc1115
+artist: Adam Rex
+artist_ids:
+- 445bd2fb-4a70-4599-87a4-83cf5979fc56
+illustration_id: 785535b7-0d9f-4a5b-b1e0-e4f520652bdb
+border_color: gold
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5009
+penny_rank: 290
+prices:
+  usd: '0.45'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Decree+of+Justice&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Decree+of+Justice&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Decree+of+Justice
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/174352?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Decree+of+Justice&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Decree+of+Justice&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

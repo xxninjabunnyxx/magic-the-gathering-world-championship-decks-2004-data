@@ -1,0 +1,107 @@
+---
+object: card
+id: b1aa9c58-6771-4563-ae6e-4cf9ca67f963
+oracle_id: d3c623f3-c7c9-47c0-8096-6dee3267baff
+multiverse_ids: []
+tcgplayer_id: 163773
+cardmarket_id: 249144
+name: Shrapnel Blast
+lang: en
+released_at: '2004-09-01'
+uri: https://api.scryfall.com/cards/b1aa9c58-6771-4563-ae6e-4cf9ca67f963
+scryfall_uri: https://scryfall.com/card/wc04/ap106/shrapnel-blast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/1/b1aa9c58-6771-4563-ae6e-4cf9ca67f963.jpg?1562936940
+  normal: https://cards.scryfall.io/normal/front/b/1/b1aa9c58-6771-4563-ae6e-4cf9ca67f963.jpg?1562936940
+  large: https://cards.scryfall.io/large/front/b/1/b1aa9c58-6771-4563-ae6e-4cf9ca67f963.jpg?1562936940
+  png: https://cards.scryfall.io/png/front/b/1/b1aa9c58-6771-4563-ae6e-4cf9ca67f963.png?1562936940
+  art_crop: https://cards.scryfall.io/art_crop/front/b/1/b1aa9c58-6771-4563-ae6e-4cf9ca67f963.jpg?1562936940
+  border_crop: https://cards.scryfall.io/border_crop/front/b/1/b1aa9c58-6771-4563-ae6e-4cf9ca67f963.jpg?1562936940
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Instant
+oracle_text: |-
+  As an additional cost to cast this spell, sacrifice an artifact.
+  Shrapnel Blast deals 5 damage to any target.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d3ff356b-bb3d-4405-a452-34c5cef27329
+set: wc04
+set_name: World Championship Decks 2004
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d3ff356b-bb3d-4405-a452-34c5cef27329
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc04&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc04?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b1aa9c58-6771-4563-ae6e-4cf9ca67f963/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad3c623f3-c7c9-47c0-8096-6dee3267baff&unique=prints
+collector_number: ap106
+digital: false
+rarity: uncommon
+flavor_text: From trinket to trauma.
+card_back_id: 896307e5-1c5d-49c0-8fb5-8d1059bc1115
+artist: Dave Dorman
+artist_ids:
+- 9235458b-ce92-45bd-a430-a72ecd8e6176
+illustration_id: 5c59afa9-6aa3-4015-8b7f-5314e7b4adda
+border_color: gold
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13713
+penny_rank: 948
+prices:
+  usd: '0.29'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shrapnel+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shrapnel+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shrapnel+Blast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/163773?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shrapnel+Blast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shrapnel+Blast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,107 @@
+---
+object: card
+id: d8ba1df5-ddfd-4fa2-b522-5241493f6109
+oracle_id: 62e7e7b1-9887-4d15-b0e5-a8ddc711bd88
+multiverse_ids: []
+tcgplayer_id: 162780
+cardmarket_id: 249135
+name: Arcbound Ravager
+lang: en
+released_at: '2004-09-01'
+uri: https://api.scryfall.com/cards/d8ba1df5-ddfd-4fa2-b522-5241493f6109
+scryfall_uri: https://scryfall.com/card/wc04/ap100/arcbound-ravager?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/8/d8ba1df5-ddfd-4fa2-b522-5241493f6109.jpg?1562946649
+  normal: https://cards.scryfall.io/normal/front/d/8/d8ba1df5-ddfd-4fa2-b522-5241493f6109.jpg?1562946649
+  large: https://cards.scryfall.io/large/front/d/8/d8ba1df5-ddfd-4fa2-b522-5241493f6109.jpg?1562946649
+  png: https://cards.scryfall.io/png/front/d/8/d8ba1df5-ddfd-4fa2-b522-5241493f6109.png?1562946649
+  art_crop: https://cards.scryfall.io/art_crop/front/d/8/d8ba1df5-ddfd-4fa2-b522-5241493f6109.jpg?1562946649
+  border_crop: https://cards.scryfall.io/border_crop/front/d/8/d8ba1df5-ddfd-4fa2-b522-5241493f6109.jpg?1562946649
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact Creature — Beast
+oracle_text: |-
+  Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+  Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+power: '0'
+toughness: '0'
+colors: []
+color_identity: []
+keywords:
+- Modular
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d3ff356b-bb3d-4405-a452-34c5cef27329
+set: wc04
+set_name: World Championship Decks 2004
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/d3ff356b-bb3d-4405-a452-34c5cef27329
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc04&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc04?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d8ba1df5-ddfd-4fa2-b522-5241493f6109/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A62e7e7b1-9887-4d15-b0e5-a8ddc711bd88&unique=prints
+collector_number: ap100
+digital: false
+rarity: rare
+card_back_id: 896307e5-1c5d-49c0-8fb5-8d1059bc1115
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 168fa025-e223-4f1b-981d-abe8b1926888
+border_color: gold
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3695
+penny_rank: 269
+prices:
+  usd: '5.39'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.27'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arcbound+Ravager&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arcbound+Ravager&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Arcbound+Ravager
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/162780?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arcbound+Ravager&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arcbound+Ravager&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
